@@ -16,7 +16,7 @@
 - ![pic2](https://github.com/17864117575/ScreenShot/blob/master/TIM%E6%88%AA%E5%9B%BE20191021160859.png?raw=true)
 
 ## list类型的布局的ui整体改动，示意图如下。
-- 标题：通用的设置 styleSkin：'ui2/common/formatFont_title_brown.png'[注意：没有styleSkin的请看这里]()
+- 标题：通用的设置 styleSkin：'ui2/common/formatFont_title_brown.png'[注意：没有styleSkin的请看这里](https://github.com/17864117575/ScreenShot/blob/master/LayaIDE%E4%B8%AD%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6.md)
 - 分割线：'ui2/000alluse/common/deco_line.png'
 - ![pic3](https://github.com/17864117575/ScreenShot/blob/master/TIM%E6%88%AA%E5%9B%BE20191024100949.png?raw=true)
 
