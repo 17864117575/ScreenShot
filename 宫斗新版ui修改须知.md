@@ -4,6 +4,7 @@
 # 通用控件
 
 ## 通用界面的tab选择标签下方有一个半透明的底板延申
+- 'ui2/000alluse/common/deco_tab01.png'
 - ![pic1](https://github.com/17864117575/ScreenShot/blob/master/TIM%E6%88%AA%E5%9B%BE20191014142744.png?raw=true)
 
 
