@@ -9,6 +9,9 @@
 - 'ui2/000alluse/common/deco_tab01.png'
 - ![pic1](https://github.com/17864117575/ScreenShot/blob/master/TIM%E6%88%AA%E5%9B%BE20191014142744.png?raw=true)
 
+## 进度条原版黄色的通用统一换成通用资源里的金色进度条
+- ![pic3]()
+
 ## 进度条
 
 # 二、弹框类型资源整理
