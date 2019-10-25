@@ -10,7 +10,7 @@
 - ![pic1](https://github.com/17864117575/ScreenShot/blob/master/TIM%E6%88%AA%E5%9B%BE20191014142744.png?raw=true)
 
 ## 进度条原版黄色的通用统一换成通用资源里的金色进度条
-- ![pic3]()
+- ![pic3](https://github.com/17864117575/ScreenShot/blob/master/TIM%E6%88%AA%E5%9B%BE20191025151615.png?raw=true)
 
 ## 进度条
 
